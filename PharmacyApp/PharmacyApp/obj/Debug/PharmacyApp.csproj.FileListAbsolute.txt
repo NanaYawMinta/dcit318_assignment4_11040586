@@ -1,0 +1,11 @@
+C:\Users\USER\source\PharmacyApp\PharmacyApp\bin\Debug\PharmacyApp.exe.config
+C:\Users\USER\source\PharmacyApp\PharmacyApp\bin\Debug\PharmacyApp.exe
+C:\Users\USER\source\PharmacyApp\PharmacyApp\bin\Debug\PharmacyApp.pdb
+C:\Users\USER\source\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.csproj.AssemblyReference.cache
+C:\Users\USER\source\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.Properties.Resources.resources
+C:\Users\USER\source\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.csproj.GenerateResource.cache
+C:\Users\USER\source\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.exe
+C:\Users\USER\source\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.pdb
+C:\Users\USER\source\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.exe.config
+C:\Users\USER\source\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.Form1.resources
