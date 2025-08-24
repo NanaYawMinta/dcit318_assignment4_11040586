@@ -1,0 +1,13 @@
+C:\Users\USER\source\Medical App\Medical App\bin\Debug\Medical App.exe.config
+C:\Users\USER\source\Medical App\Medical App\bin\Debug\Medical App.exe
+C:\Users\USER\source\Medical App\Medical App\bin\Debug\Medical App.pdb
+C:\Users\USER\source\Medical App\Medical App\obj\Debug\Medical App.csproj.AssemblyReference.cache
+C:\Users\USER\source\Medical App\Medical App\obj\Debug\Medical_App.Form1.resources
+C:\Users\USER\source\Medical App\Medical App\obj\Debug\Medical_App.Properties.Resources.resources
+C:\Users\USER\source\Medical App\Medical App\obj\Debug\Medical App.csproj.GenerateResource.cache
+C:\Users\USER\source\Medical App\Medical App\obj\Debug\Medical App.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\Medical App\Medical App\obj\Debug\Medical App.exe
+C:\Users\USER\source\Medical App\Medical App\obj\Debug\Medical App.pdb
+C:\Users\USER\source\Medical App\Medical App\obj\Debug\Medical App.exe.config
+C:\Users\USER\source\Medical App\Medical App\obj\Debug\MedicalApp.MainForm.resources
+C:\Users\USER\source\Medical App\Medical App\obj\Debug\MedicalApp.Form1.resources
